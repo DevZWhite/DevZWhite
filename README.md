@@ -1,6 +1,6 @@
 # Hi there, I'm Zachary White 👋
 
-Welcome to my GitHub profile! I am working towards my Bachelors degree in Software Development at Bellevue University.
+Welcome to my profile! I am working towards my Bachelors degree in Software Development at Bellevue University.
 
 ---
 
