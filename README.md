@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there, I'm Zachary White 👋
 
-<!--
-**DevZWhite/DevZWhite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I am working towards my Bachelors degree in Software Development at Bellevue University.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 💻 **Developer**: Proficient in **SQL**, **HTML**, **CSS**, and **C++**. Currently learning **Java**, **TypeScript**, **Python**, and **Node.js**.
+- 🌱 **Continuous Learner**: Exploring **software engineering technologies** such as **JIRA**, **AWS**, **Azure**, and **DevOps**.
+- 🛠️ **Tech Enthusiast**: Passionate about building efficient and scalable software solutions.
+
+---
+
+## 🏆 GitHub Stats
+![DevZWhite's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevZWhite&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevZWhite&layout=compact&theme=radical)](https://github.com/DevZWhite/github-readme-stats)
+
+---
+
+## 🌐 Let's Connect!
+- 💼 **LinkedIn**: [Zachary White](https://www.linkedin.com/in/zacharywhite47/)
+
+---
+
+## 🎮 Favorite Games
+- **Diablo 4**
+- **Last Epoch**
+- **Path of Exile**
+
+---
+
+## ❤️ My Hobbies
+- 🎮 Gaming
+- 🤖 Building Gundams
+- 💑 Being a loving husband
+
+---
+
+Thanks for stopping by! Feel free to explore my page and connect with me.
