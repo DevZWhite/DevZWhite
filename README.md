@@ -14,7 +14,7 @@ Welcome to my profile! I am working towards my Bachelors degree in Software Deve
 ## 🏆 GitHub Stats
 ![DevZWhite's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevZWhite&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevZWhite&layout=compact&theme=radical)](https://github.com/DevZWhite/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevZWhite&layout=compact&theme=radical)](https://github.com/DevZWhite/github-readme-stats)
 
 ---
 
