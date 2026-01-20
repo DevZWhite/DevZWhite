@@ -2,6 +2,9 @@
 
 Welcome to my profile! I am working towards my Bachelors degree in Software Development at Bellevue University.
 
+This is where I will post things only related to coursework, I plan on working more exclusively on this profile.
+Moving forward, as this will serve as both my professional and educational spot for all things software related.
+
 ---
 
 ## 🚀 About Me
