@@ -19,6 +19,10 @@ Moving forward, as this will serve as both my professional and educational spot 
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevZWhite&layout=compact&theme=radical)](https://github.com/DevZWhite/github-readme-stats)
 
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/05f58f08-c1eb-4750-9ca1-99a42a5e0641/thumbnail" >
+</p>
+
 ---
 
 ## 🌐 Let's Connect!
