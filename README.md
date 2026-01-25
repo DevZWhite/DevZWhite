@@ -7,14 +7,13 @@ Moving forward, as this will serve as both my professional and educational spot 
 
 ---
 
-## 🚀 About Me
-- 💻 **Developer**: Proficient in **SQL**, **HTML**, **CSS**, and **C++**. Currently learning **Java**, **TypeScript**, **Python**, and **Node.js**.
-- 🌱 **Continuous Learner**: Exploring **software engineering technologies** such as **JIRA**, **AWS**, **Azure**, and **DevOps**.
-- 🛠️ **Tech Enthusiast**: Passionate about building efficient and scalable software solutions.
+## About Me
+-  **Developer**: Currently learning **Java**, **TypeScript**, **Python**, and **Node.js**.
+-  **Continuous Learner**: Exploring **software engineering technologies** such as **JIRA**, **AWS**, **Azure**, and **DevOps**.
 
 ---
 
-## 🏆 GitHub Stats
+## GitHub Stats
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/05f58f08-c1eb-4750-9ca1-99a42a5e0641/thumbnail" >
 </p>
@@ -25,22 +24,8 @@ Moving forward, as this will serve as both my professional and educational spot 
 
 ---
 
-## 🌐 Let's Connect!
-- 💼 **LinkedIn**: [Zachary White](https://www.linkedin.com/in/zacharywhite47/)
-
----
-
-## 🎮 Favorite Games
-- **Diablo 4**
-- **Last Epoch**
-- **Path of Exile**
-
----
-
-## ❤️ My Hobbies
-- 🎮 Gaming
-- 🤖 Building Gundams
-- 💑 Being a loving husband
+##  Let's Connect!
+- **LinkedIn**: [Zachary White](https://www.linkedin.com/in/zacharywhite47/)
 
 ---
 
